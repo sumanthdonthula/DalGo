@@ -56,4 +56,4 @@ To get started with this project, follow these simple steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/yourusername/data-structures-algorithms-python.git
+git clone https://github.com/sumanthdonthula/DalGo.git
