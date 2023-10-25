@@ -35,7 +35,7 @@ This project includes well-documented Python implementations of essential data s
 ### Built With
 
 - [Python](https://www.python.org/)
-- Your dedication and passion!
+- Dedication and passion!
 
 <!-- GETTING STARTED -->
 ## Getting Started
