@@ -1,7 +1,7 @@
 <h1 align="center">Data Structures & Algorithms in Python</h1>
 
 <p align="center">
-  <img src="logo.jpg" alt="Logo" width="200" height="200">
+  <img src="image.jpg" alt="Logo" width="200" height="200">
 </p>
 
 <p align="center">
